@@ -23,7 +23,7 @@
     "mysql-promisify": "^1.0.2",
     "node-schedule": "^1.3.2",
     "sinon": "^9.0.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "supertest": "^4.0.2",
     "util": "^0.12.1",
     "validator": "^11.1.0",
